@@ -3,8 +3,9 @@
 Data Scientist | App Developer | Quantitative Problem Solver
 
 I build data-driven solutions that turn raw data into actionable insights. I love designing Python-powered apps, analyzing datasets, and creating models that actually help businesses make decisions.
+---
 
-🔹 About Me
+##🔹 About Me
 
 Passionate about data science, machine learning, and analytics.
 
@@ -14,7 +15,7 @@ I love building apps and dashboards to make insights interactive and accessible.
 
 Outside work, I’m into fitness, dark romance novels (guilty pleasure!), and experimenting with creative side projects.
 
-💻 What I Do
+## 💻 What I Do
 
 Forecasting & predictive modeling for retail, e-commerce, and market trends
 
@@ -24,7 +25,7 @@ Building interactive dashboards and applications with Python and Streamlit
 
 Backtesting and developing trading strategies (because numbers are life)
 
-📂 Skills & Tools
+## 📂 Skills & Tools
 
 Languages: Python, SQL
 
@@ -36,7 +37,7 @@ Apps & Deployment: Streamlit
 
 Other: Git, GitHub, Jupyter Notebooks, Excel
 
-🚀 Projects
+## 🚀 Projects
 
 Check out some of my highlights:
 
@@ -48,7 +49,7 @@ Heart Attack Prediction App: Machine learning model deployed on Streamlit
 
 (Full project list in my repositories)
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 LinkedIn: www.linkedin.com/in/sheilla-macharia-458422324
 
