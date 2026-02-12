@@ -1,6 +1,6 @@
 
 # 👋🏾 Hello 
-# Sheila Macharia – Data Scientist Portfolio
+# Sheilla Macharia – Data Scientist Portfolio
 
 ## About Me
 I am an early-career data scientist with a strong foundation in Python, SQL, Excel, and data visualization tools such as Tableau. I have experience turning raw data into actionable insights, building dashboards, performing exploratory analyses, and validating key performance metrics. My projects span multiple domains including retail, telecom, media, social media analytics, and aviation risk.  
