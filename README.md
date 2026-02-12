@@ -5,7 +5,7 @@ Data Scientist | App Developer | Quantitative Problem Solver
 I build data-driven solutions that turn raw data into actionable insights. I love designing Python-powered apps, analyzing datasets, and creating models that actually help businesses make decisions.
 ---
 
-##🔹 About Me
+## 🔹 About Me
 
 Passionate about data science, machine learning, and analytics.
 
