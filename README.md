@@ -66,5 +66,5 @@ I am particularly interested in roles where I can use data to drive business dec
 ## Contact
 - LinkedIn: www.linkedin.com/in/sheilla-macharia-458422324  
 - Email: sheilamacharia8@gmail.com
-- Portfolio: https://sheillamacharia.github.io/
+- Portfolio: https://sheilamumbi.github.io/sheillamacharia.github.io/
 
