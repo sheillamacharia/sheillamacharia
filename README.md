@@ -1,8 +1,8 @@
 # Hi, I'm Sheilla Macharia 👋
 
-I'm an early-career data scientist who builds things that turn raw data into decisions — from exploratory analysis and dashboards to full AI-powered automation pipelines. My work spans retail, telecom, media, social media, aviation, and agriculture.
+I'm an early-career data scientist who builds things that turn raw data into decisions; from exploratory analysis and dashboards to full AI-powered automation pipelines. My work spans retail, telecom, media, social media, aviation, and agriculture.
 
-Lately I've been moving beyond analysis-in-a-notebook toward building the systems that deliver insights automatically — backend services, scheduled pipelines, and AI-generated reporting — while still doing the classic data science work that got me here.
+Lately I've been moving beyond analysis-in-a-notebook toward building the systems that deliver insights automatically, backend services, scheduled pipelines, and AI-generated reporting, while still doing the classic data science work that got me here.
 
 I'm particularly interested in roles where data drives business decisions, optimizes operations, and generates commercial impact. I thrive in fast-paced environments, enjoy solving complex problems, and I'm always curious about the "why" behind the numbers.
 
@@ -24,7 +24,6 @@ I'm particularly interested in roles where data drives business decisions, optim
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Visualization & BI**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -66,15 +65,15 @@ I'm particularly interested in roles where data drives business decisions, optim
 ### 🤖 AutoBrief — Automated Multi-Department Reporting Engine
 *Python, Flask, Gemini API, Jinja2*
 
-A reporting engine that pulls data, cleans it, calculates KPIs, generates written insights with the Gemini API, and delivers the report automatically — for six departments (Sales, Finance, Marketing, Support, HR, Supply Chain) off one shared pipeline. Includes both a CLI and a web dashboard.
+A reporting engine that pulls data, cleans it, calculates KPIs, generates written insights with the Gemini API, and delivers the report automatically, for six departments (Sales, Finance, Marketing, Support, HR, Supply Chain) off one shared pipeline. Includes both a CLI and a web dashboard.
 - Designed a config-driven architecture so the same pipeline code serves every department without hardcoding column names
-- Built the AI-insight step to narrate pre-computed KPIs only — never asking the model to do arithmetic, keeping numbers reliable
+- Built the AI-insight step to narrate pre-computed KPIs only, never asking the model to do arithmetic, keeping numbers reliable
 - Shipped both a command-line tool and a Flask + HTML/CSS/JS dashboard
 
 ### 🧩 Tafsiri — AI Client Workflow Automation for Creative Agencies
 *Python, FastAPI, PostgreSQL*
 
-An AI business-analyst tool covering the full agency workflow — client discovery calls through proposal generation, quoting, manager approval, and QuickBooks integration. Built with a 5-person team.
+An AI business-analyst tool covering the full agency workflow, client discovery calls through proposal generation, quoting, manager approval, and QuickBooks integration. Built with a 5-person team.
 - Built the Client Payment Risk / Cash Flow Predictability engine as a FastAPI service
 - Identified and resolved two data leakage issues that were silently inflating model performance
 - Debugged backend infrastructure issues (import-order bugs, Postgres sequence desync) and documented fixes via detailed PRs
